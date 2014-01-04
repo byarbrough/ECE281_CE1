@@ -115,7 +115,9 @@ BEGIN
 		B <= '1';
 		C <= '1';
 		wait for 100 ns;
-
+		
+		-- end the program
+		--new commment
       wait;
    end process;
 
