@@ -48,5 +48,6 @@ E <= B and C;
 F <= D or E;
 
 --end comment
+--comment
 end Behavioral;
 
