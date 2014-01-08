@@ -3,7 +3,7 @@ ECE281_CE1
 ####First go around
 
 **Waveform**
-![alt text](https://github.com/byarbrough/ECE281_CE1/blob/master/waveform.PNG "Waveform Image")
+![alt text](https://github.com/byarbrough/ECE281_CE1/blob/master/waveform.PNG?raw=true "Waveform Image")
 
 ---
 
