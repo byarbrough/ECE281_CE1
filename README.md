@@ -3,6 +3,7 @@ ECE281_CE1
 ####First go around
 
 **Waveform**
+
 ![alt text](https://github.com/byarbrough/ECE281_CE1/blob/master/waveform.PNG?raw=true "Waveform Image")
 
 ---
@@ -18,6 +19,16 @@ ECE281_CE1
 1|0|1|1
 0|1|1|1
 1|1|1|1
+
+A	B	C	F
+0	0	0	0
+0	0	1	0
+0	1	0	0
+1	0	0	1
+1	1	0	0
+1	0	1	1
+0	1	1	1
+1	1	1	1
 
 ----
 
