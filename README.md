@@ -4,16 +4,18 @@ _C3C Brian Yarbrough_
 
 _First go around_
 
+
+**Truth Table**
+
+![alt text](https://github.com/byarbrough/ECE281_CE1/blob/master/table.PNG?raw=true "Truth Table")
+
+----
+
 **Waveform**
 
 ![alt text](https://github.com/byarbrough/ECE281_CE1/blob/master/waveform.PNG?raw=true "Waveform Image")
 
 ---
-
-**Truth Table**
-
-
-----
 
 ##Analysis
 The above waveform and truth table show the same results.
