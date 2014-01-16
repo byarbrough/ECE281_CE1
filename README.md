@@ -21,3 +21,6 @@ _First go around_
 The above waveform and truth table show the same results.
 Depending on which signals are logic HIGH or LOW, the output (f) changes.
 There are only certain combinations which will produce a HIGH output.
+
+The truth table can be summarized with:
+Σ(3, 4, 5, 7)
