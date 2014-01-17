@@ -1,6 +1,6 @@
-ECE281_CE1
+﻿ECE281_CE1
 ==========
-_C3C Brian Yarbrough_
+_[C3C Brian Yarbrough](https://github.com/byarbrough/ECE281-student-accounts
 
 _First go around_
 
